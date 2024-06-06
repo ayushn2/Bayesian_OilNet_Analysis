@@ -7,10 +7,10 @@ utilizes Bayesian networks to analyze and study the dependencies among major oil
 The primary goal is to uncover intricate relationships and dependencies within the oil sector, providing valuable insights into the interconnected nature of these companies.
 
 **Objectives:**
-Analyze Dependencies: Use Bayesian networks to model and analyze the dependencies among various oil companies.
-Data-Driven Insights: Provide data-driven insights into how changes in one company can affect others within the network.
-Predictive Modeling: Develop predictive models to forecast potential outcomes based on observed dependencies.
-Visualization: Create visual representations of the dependencies to aid in understanding and decision-making.
+**Analyze Dependencies:** Use Bayesian networks to model and analyze the dependencies among various oil companies.
+**Data-Driven Insights:** Provide data-driven insights into how changes in one company can affect others within the network.
+**Predictive Modeling:** Develop predictive models to forecast potential outcomes based on observed dependencies.
+**Visualization:** Create visual representations of the dependencies to aid in understanding and decision-making.
 
 **Methodology:**
 Data Collection: Gather comprehensive data from various oil companies, including financial reports, market data, and other relevant metrics.
